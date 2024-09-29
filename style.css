@@ -1,0 +1,16 @@
+body{
+    background-color: blue;
+}
+
+.calc-head {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    width: 400px;
+    height: 100px;
+    margin: auto;
+    margin-top: 10%;
+    justify-content: center;
+
+     
+}
